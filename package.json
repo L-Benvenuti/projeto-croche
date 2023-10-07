@@ -1,0 +1,27 @@
+{
+  "name": "projeto-croche",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-Benvenuti/projeto-croche.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L-Benvenuti/projeto-croche/issues"
+  },
+  "homepage": "https://github.com/L-Benvenuti/projeto-croche#readme",
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
